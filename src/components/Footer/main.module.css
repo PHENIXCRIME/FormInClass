@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-image: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  height: 10vh;
+  color: white;
+}
+.copyRight {
+  display: flex;
+  padding-right: 5vw;
+  padding-left: 5vw;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.logIn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 2vh;
+  padding: 0.5rem 0.8rem;
+}
